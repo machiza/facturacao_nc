@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Facturaco\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
